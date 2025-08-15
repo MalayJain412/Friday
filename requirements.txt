@@ -1,0 +1,8 @@
+livekit-agents
+livekit-agents[openai,deepgram,cartesia,silero,turn_detector,google]~=1.0
+livekit-plugins-noise-cancellation
+mem0ai
+duckduckgo-search
+langchain_community
+requests
+python-dotenv
