@@ -13,7 +13,6 @@ from transcript_logger import (
     get_log_path,
     flush_and_stop,
     generate_session_id,
-    save_conversation_session,
 )
 
 class SessionManager:

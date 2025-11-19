@@ -16,7 +16,7 @@ from livekit.plugins import (
 from prompts import AGENT_INSTRUCTION, SESSION_INSTRUCTION
 from tools import get_weather, search_web
 from logging_config import configure_logging
-from transcript_logger import set_current_session_id, set_dialed_number, set_session_manager
+from transcript_logger import set_session_id, set_dialed_number, set_session_manager
 from session_manager import SessionManager
 
 load_dotenv()
@@ -43,7 +43,7 @@ class Assistant(Agent):
     def __init__(self) -> None:
         super().__init__(
             instructions=AGENT_INSTRUCTION,
-            llm=google.LLM(model="gemini-1.5-flash", temperature=0.8),
+            llm=google.LLM(model="gemini-2.5-flash", temperature=0.8),
             tools=[
                 get_weather,
                 search_web
@@ -54,7 +54,7 @@ class Assistant(Agent):
 async def entrypoint(ctx: agents.JobContext):
     # Initialize session ID and metadata
     session_id = f"session_{int(time.time())}"
-    set_current_session_id(session_id)
+    set_session_id(session_id)
     
     # Create a session with Cartesia TTS for Hindi voice output
     session = AgentSession(
