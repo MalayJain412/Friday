@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "id": "item_f152aeb95d2a",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "नमस्ते, मेरा नाम फ्राइडे है, आपका निजी सहायक,"
+      ],
+      "interrupted": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "id": "item_0a754211f035",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.76586914
+    },
+    {
+      "id": "item_1c36a0c5767d",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "नमस्ते, क्या आप अभी भी यह पता लगाने की कोशिश कर रहे हैं कि मैं कौन हूँ?"
+      ],
+      "interrupted": false
+    }
+  ]
+}
