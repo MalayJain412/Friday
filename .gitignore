@@ -1,3 +1,4 @@
 .env
 __pycache__
 venv/
+prompt_manager/apvenv/

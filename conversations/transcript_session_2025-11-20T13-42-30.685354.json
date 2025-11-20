@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": "item_c6b78b40d22f",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "नमस्ते, श्रीमान। आपका क्या आदेश है?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_b4d4c92084de",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Tumhara namekya he?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_c6850fb7261a",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "मेरा नाम फ्राइडे है, साहब। क्या आप कुछ और जानना चाहेंगे?"
+      ],
+      "interrupted": false
+    }
+  ]
+}

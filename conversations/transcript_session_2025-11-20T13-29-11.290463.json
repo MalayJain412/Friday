@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "item_41acbdba20b3",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I'm sorry, I'm not sure what you mean by that. Could you please elaborate?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_c3ad3fd9495f",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_89d80b729029",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello! How can I help you today?\n"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_eae2ce199797",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "what is your name?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_1315778966ed",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I do not have a name."
+      ],
+      "interrupted": false
+    }
+  ]
+}

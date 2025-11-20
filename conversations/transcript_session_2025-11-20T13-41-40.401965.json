@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": "item_13335725aa5f",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "अरे, आज शुक्रवार है। बताइए, आपके लिए क्या कर सकता हूँ?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_7772f99d280d",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "tumhara name kya he?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_24cce8218d6c",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "मेरा नाम जार्विस है, जैसा कि आपको पता होना चाहिए था, साहब।"
+      ],
+      "interrupted": false
+    }
+  ]
+}

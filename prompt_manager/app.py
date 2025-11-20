@@ -19,6 +19,14 @@ def update_prompt(new_prompt):
     with open("prompts.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+def read_prompts():
+    with open("prompts.json", "r", encoding="utf-8") as f:
+        return json.load(f)
+
+@app.get("/api/prompts")
+async def get_prompts():
+    return read_prompts()
+
 @app.get("/", response_class=HTMLResponse)
 async def read_root(request: Request):
     prompt = read_prompt()

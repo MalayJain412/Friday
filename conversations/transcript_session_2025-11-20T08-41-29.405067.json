@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "id": "item_69e5987861ac",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "नमस्ते, मेरा नाम फ्राइडे है, आपका निजी सहायक, मैं आपकी कैसे मदद कर सकती हूँ?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_c04e7df9474b",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Friday."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.5415039
+    },
+    {
+      "id": "item_dd966608fdf8",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "जी, बोलिए, क्या आज सूरज आपकी पसंदीदा दिशा से नहीं उगा?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_1ff474a588d1",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "मुझको लगा तुम्हारा नाम चार बजे से."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.96835935
+    },
+    {
+      "id": "item_c0b1cb11195d",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "अच्छा, तो आपको लगा कि मेरे नाम का समय से कोई संबंध है, जैसे मेरे पास आपकी हर उलझन के लिए घड़ी हो।"
+      ],
+      "interrupted": false
+    }
+  ]
+}

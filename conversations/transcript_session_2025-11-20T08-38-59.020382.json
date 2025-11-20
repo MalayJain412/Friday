@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "id": "item_c2fd4ffb4c45",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "नमस्ते, मेरा नाम फ्राइडे है, आपका निजी सहायक, मैं आपकी कैसे मदद कर सकती हूँ?"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_09d26a3919a0",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello,"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.5727539
+    },
+    {
+      "id": "item_538d5708a0c4",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "नमस्ते, क्या आप बस \"नमस्ते\" कहने के लिए ही प्रकट हुए हैं, या मेरे लिए कोई और तुच्छ कार्य है?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_41785864b1db",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.72314453
+    },
+    {
+      "id": "item_a024467ddc9e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "जी, मैंने आपको पहली बार भी सुना था। क्या अब कोई और आदेश है, या हम बस एक-दूसरे को नमस्ते कहते रहेंगे?"
+      ],
+      "interrupted": false
+    }
+  ]
+}
