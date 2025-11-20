@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "id": "item_2014f997a28e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "नमस्कार साहब, ऐसा लगता है कि आपने कुछ नहीं कहा। मैं आपकी कैसे सहायता कर सकता हूँ?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_803302828bad",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "मैं यह जानना चाहता हूं कि आप किस किस प्रकार में मेरी सहायता कर सकते हैं?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99726564
+    },
+    {
+      "id": "item_b504f5d02ec6",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "मैं मौसम की जानकारी दे सकता हूँ और वेब पर कुछ भी खोज सकता हूँ, साहब, यदि आप इतनी मेहनत करने की जहमत उठाएं।"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_4168144b7960",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "तो फिर कोई भी अच्छी सी coach करके बताएं"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9875488
+    },
+    {
+      "id": "item_cd8f5c6b0591",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "जी बॉस, मैं अभी 'अच्छी कोच' खोज कर बताती हूँ, हालांकि 'अच्छी' का अर्थ क्या है, यह तो आप ही जानें।"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_b3a4ef5a64a0",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "तो फिर मुझे एक गाली देकर बताओ बहुत अच्छी सी गाली."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9970703
+    },
+    {
+      "id": "item_027e5d67697a",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "क्षमा करें, साहब, लेकिन मेरा व्यवहार आपको किसी भी प्रकार की अभद्र भाषा से अवगत कराने की अनुमति नहीं देता है। मैं आपकी इस विशेष इच्छा को पूरी नहीं कर पाऊँगी।"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_04f9652750f0",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello? मेरा नाम याद रखना. मेरा नाम क्या है?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.689453125
+    },
+    {
+      "id": "item_c2fe9f98a349",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "मेरा नाम है रमेश बाबू. मेरा क्या नाम है?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9987793
+    },
+    {
+      "id": "item_9d13b3f2f208",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "रमेश बाबू."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99975586
+    },
+    {
+      "id": "item_a65f31474bb3",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Ok."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.7067871
+    },
+    {
+      "id": "item_0d7926bc5751",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "इसको याद रखना बेटा."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9983724
+    },
+    {
+      "id": "item_12b881300056",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "कभी पुछ सकता हूं"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99853516
+    },
+    {
+      "id": "item_f1820741140c",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "जी साहब, मैंने आपका नाम रमेश बाबू याद कर लिया है। अब, क्या हम कुछ और महत्वपूर्ण बात पर ध्यान दे सकते हैं?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_0df3465ed49f",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Mira,"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.0
+    }
+  ]
+}

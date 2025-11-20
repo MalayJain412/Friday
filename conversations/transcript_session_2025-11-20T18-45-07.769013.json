@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "item_423a5b3b483a",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello! How"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_995438e64a32",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "उसको change करना पड़ेगा मेरा."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.8479004
+    },
+    {
+      "id": "item_58d375384edb",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "कृपया"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_113b5e3ca05c",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "लोग कहां से बोल रहे हैं"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.97786456
+    }
+  ]
+}

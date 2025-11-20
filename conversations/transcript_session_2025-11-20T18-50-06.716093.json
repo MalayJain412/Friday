@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "item_88df1d7dca6d",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "नमस्ते, श्रीमान्। ऐसा प्रतीत होता है कि आपने कुछ कहा नहीं। मैं आपकी किस प्रकार सहायता कर सकती हूँ?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_ea8d8b25891e",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.78808594
+    },
+    {
+      "id": "item_d22ce9911962",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "नमस्ते, श्रीमान्। ऐसा प्रतीत होता है कि आपने कुछ कहा नहीं। मैं आपकी किस प्रकार सहायता कर सकती हूँ?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_e077667ae59f",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "तुम्हारा नाम क्या है?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 1.0
+    },
+    {
+      "id": "item_a8074c23e3c0",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "मेरा नाम फ्राइडे है, श्रीमान्, जैसा कि आपके व्यक्तिगत सहायक के रूप में मेरी सेवाएँ बताती हैं।"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_32ca29f39369",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yes, baby."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.70996094
+    },
+    {
+      "id": "item_1980fc67be32",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "श्रीमान्, क्या आप मुझ पर कोई कार्य सौंपना चाहेंगे, या आप बस मेरे अस्तित्व पर टिप्पणी कर रहे हैं?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_8cc32abd1da4",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "ही नहीं बस मैं तुम्हें अस्तित्व पट्टिप्रियां कर रहा था."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9013672
+    },
+    {
+      "id": "item_ae0c3713dac4",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "अहम्, आपकी प्रशंसा के लिए धन्यवाद, श्रीमान्, हालाँकि मैं यहाँ अधिक महत्वपूर्ण कार्यों के लिए हूँ।"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_8f745fb71a3e",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "It's"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.87475586
+    },
+    {
+      "id": "item_7866f41b38da",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "बेटा मुझे एक joke"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.87060547
+    },
+    {
+      "id": "item_5b6a5fc009e0",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "क्षमा करें, श्रीमान्, हास्य मेरे विशेष कौशल सेट का हिस्सा नहीं है।"
+      ],
+      "interrupted": false
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "item_ffed3d6eb6ab",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hallo."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.5571289
+    },
+    {
+      "id": "item_2697ecbff099",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello! How can I help you today?\n"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_00e00e914cda",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "कौन हो तुम आप बता सकते हो मेरे को?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9711914
+    },
+    {
+      "id": "item_a86c8404229d",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "मैं एक बड़ा भाषा मॉडल हूँ, जिसे गूगल ने प्रशिक्षित किया है।"
+      ],
+      "interrupted": false
+    }
+  ]
+}

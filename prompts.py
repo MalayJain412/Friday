@@ -2,7 +2,7 @@ import json
 import os
 import requests
 
-LOCAL_APP = os.getenv("LOCAL_APP", "true").lower() == "true"
+LOCAL_APP = os.getenv("LOCAL_APP", "true").lower()
 
 if LOCAL_APP:
     # Load from local file
