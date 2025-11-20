@@ -11,3 +11,4 @@ pytz==2025.2
 fastapi
 uvicorn[standard]
 python-multipart
+ddgs
